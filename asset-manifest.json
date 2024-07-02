@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/System-Switch-Tracker/static/css/main.b6343a52.css",
+    "main.js": "/System-Switch-Tracker/static/js/main.b6506b4e.js",
+    "static/js/453.6a7692b1.chunk.js": "/System-Switch-Tracker/static/js/453.6a7692b1.chunk.js",
+    "static/media/Amity-Logo.webp": "/System-Switch-Tracker/static/media/Amity-Logo.ffcfb088ace619d32746.webp",
+    "index.html": "/System-Switch-Tracker/index.html",
+    "main.b6343a52.css.map": "/System-Switch-Tracker/static/css/main.b6343a52.css.map",
+    "main.b6506b4e.js.map": "/System-Switch-Tracker/static/js/main.b6506b4e.js.map",
+    "453.6a7692b1.chunk.js.map": "/System-Switch-Tracker/static/js/453.6a7692b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6343a52.css",
+    "static/js/main.b6506b4e.js"
+  ]
+}
