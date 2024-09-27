@@ -68,6 +68,7 @@ function App() {
   const labOptions = [
     { label: 'Lab 105', value: 'Lab 105' },
     { label: 'Lab 107', value: 'Lab 107' },
+    { label: 'Lab 204', value: 'Lab 204' },
   ];
 
   return (
@@ -86,7 +87,6 @@ function App() {
                   {selectedLab || 'Select '}
                 </span>
                 <div className="arrow-down"></div>
-                {/* Curved drop-down arrow */}
               </div>
 
               {isDropdownOpen && (
